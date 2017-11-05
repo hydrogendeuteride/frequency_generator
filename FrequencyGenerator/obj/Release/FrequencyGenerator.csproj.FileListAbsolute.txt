@@ -1,0 +1,9 @@
+C:\Users\내꺼\Desktop\Project\Frequency\FrequencyGenerator\FrequencyGenerator\bin\Release\FrequencyGenerator.exe.config
+C:\Users\내꺼\Desktop\Project\Frequency\FrequencyGenerator\FrequencyGenerator\bin\Release\FrequencyGenerator.exe
+C:\Users\내꺼\Desktop\Project\Frequency\FrequencyGenerator\FrequencyGenerator\bin\Release\FrequencyGenerator.pdb
+C:\Users\내꺼\Desktop\Project\Frequency\FrequencyGenerator\FrequencyGenerator\obj\Release\FrequencyGenerator.Form1.resources
+C:\Users\내꺼\Desktop\Project\Frequency\FrequencyGenerator\FrequencyGenerator\obj\Release\FrequencyGenerator.Properties.Resources.resources
+C:\Users\내꺼\Desktop\Project\Frequency\FrequencyGenerator\FrequencyGenerator\obj\Release\FrequencyGenerator.csproj.GenerateResource.Cache
+C:\Users\내꺼\Desktop\Project\Frequency\FrequencyGenerator\FrequencyGenerator\obj\Release\FrequencyGenerator.csproj.CoreCompileInputs.cache
+C:\Users\내꺼\Desktop\Project\Frequency\FrequencyGenerator\FrequencyGenerator\obj\Release\FrequencyGenerator.exe
+C:\Users\내꺼\Desktop\Project\Frequency\FrequencyGenerator\FrequencyGenerator\obj\Release\FrequencyGenerator.pdb

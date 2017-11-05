@@ -1,0 +1,10 @@
+C:\Users\내꺼\Desktop\Project\Frequency\FrequencyGenerator\FrequencyGenerator\bin\Debug\FrequencyGenerator.exe.config
+C:\Users\내꺼\Desktop\Project\Frequency\FrequencyGenerator\FrequencyGenerator\bin\Debug\FrequencyGenerator.exe
+C:\Users\내꺼\Desktop\Project\Frequency\FrequencyGenerator\FrequencyGenerator\bin\Debug\FrequencyGenerator.pdb
+C:\Users\내꺼\Desktop\Project\Frequency\FrequencyGenerator\FrequencyGenerator\obj\Debug\FrequencyGenerator.csprojResolveAssemblyReference.cache
+C:\Users\내꺼\Desktop\Project\Frequency\FrequencyGenerator\FrequencyGenerator\obj\Debug\FrequencyGenerator.Form1.resources
+C:\Users\내꺼\Desktop\Project\Frequency\FrequencyGenerator\FrequencyGenerator\obj\Debug\FrequencyGenerator.Properties.Resources.resources
+C:\Users\내꺼\Desktop\Project\Frequency\FrequencyGenerator\FrequencyGenerator\obj\Debug\FrequencyGenerator.csproj.GenerateResource.Cache
+C:\Users\내꺼\Desktop\Project\Frequency\FrequencyGenerator\FrequencyGenerator\obj\Debug\FrequencyGenerator.csproj.CoreCompileInputs.cache
+C:\Users\내꺼\Desktop\Project\Frequency\FrequencyGenerator\FrequencyGenerator\obj\Debug\FrequencyGenerator.exe
+C:\Users\내꺼\Desktop\Project\Frequency\FrequencyGenerator\FrequencyGenerator\obj\Debug\FrequencyGenerator.pdb
